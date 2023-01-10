@@ -22,9 +22,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gauravsinghme&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br>
+<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gauravsinghme&theme=darcula&hide_border=false)<br/>
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsinghme&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
 <br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i5pcj3ahzbj1x3g3w01fxtjio&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 
